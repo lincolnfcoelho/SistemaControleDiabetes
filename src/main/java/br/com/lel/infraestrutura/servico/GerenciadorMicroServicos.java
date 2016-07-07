@@ -12,9 +12,9 @@ import com.mangofactory.swagger.models.dto.ApiInfo;
 import com.mangofactory.swagger.plugin.EnableSwagger;
 import com.mangofactory.swagger.plugin.SwaggerSpringMvcPlugin;
 
-@Configuration // Define a classe como classe de configuração
-@EnableAutoConfiguration // Habilita a autoconfiguração
-@EnableSwagger // Habilita o Swagger
+@Configuration // Define a classe como classe de configuração.
+@EnableAutoConfiguration // Habilita a autoconfiguração.
+@EnableSwagger // Habilita o Swagger.
 @ComponentScan(basePackages = { "br.com.lel" })
 public class GerenciadorMicroServicos {
 
