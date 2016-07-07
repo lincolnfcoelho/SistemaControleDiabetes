@@ -1,0 +1,3 @@
+br\com\lel\infraestrutura\servico\GerenciadorMicroServicos.class
+br\com\lel\dominio\entidade\MonitoramentoDiabetico.class
+br\com\lel\aplicativo\servico\GerenciadorMonitoramentoDiabetico.class
