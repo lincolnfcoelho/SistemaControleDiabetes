@@ -44,9 +44,9 @@ public class GerenciadorMicroServicos {
 		ApiInfo apiInfo = new ApiInfo( // Configurações de contato, licença etc
 										// não nescessáriamente precisa ser
 										// definida
-				"Swagger With Spring Boot",
-				"This is a simple application to demonstrate how to work with Swagger in Spring Boot project!",
-				"Free to use and mess around", "erudio@gmail.com", "Open Licence", "myemail@gmail.com");
+				"Swagger - Sistema de Controle de Diabetes",
+				"Os serviços dessa aplicação permite realizar vários controle referentes ao diabetes.",
+				"Free to use and mess around", "lincolnfcoelho@gmail.com", "Open Licence", "lincolnfcoelho@gmail.com");
 		return apiInfo;
 	}
 
